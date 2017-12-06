@@ -1,0 +1,9 @@
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\bin\Debug\RatingApiConsole.exe.config
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\bin\Debug\RatingApiConsole.exe
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\bin\Debug\RatingApiConsole.pdb
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\bin\Debug\ClassLibrary.dll
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\bin\Debug\ClassLibrary.pdb
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\obj\Debug\RatingApiConsole.csprojResolveAssemblyReference.cache
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\obj\Debug\RatingApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\obj\Debug\RatingApiConsole.exe
+C:\Users\Etka\Source\Repos\RatingApi\RatingApiConsole\obj\Debug\RatingApiConsole.pdb

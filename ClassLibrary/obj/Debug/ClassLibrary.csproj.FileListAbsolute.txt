@@ -1,0 +1,8 @@
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\bin\Debug\DotNetShipping.dll
+C:\Users\Etka\Source\Repos\RatingApi\ClassLibrary\bin\Debug\DotNetShipping.xml
