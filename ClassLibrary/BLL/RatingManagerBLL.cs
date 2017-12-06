@@ -33,9 +33,6 @@ namespace ClassLibrary.BLL
                 var rates = carrier.GetRates(shipment);
                 allRates.AddRange(rates);
 
-                Console.WriteLine();
-
-                Console.ReadLine();
             }
             return allRates;
         }
